@@ -16,6 +16,6 @@ public class Equals_HashcodeTest {
 		System.out.println(hash2);
 		Assert.assertTrue(persona1.equals(persona2));
 		
-	}
+	} 
 
 }
